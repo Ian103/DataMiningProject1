@@ -1,0 +1,13 @@
+(Bread, Milk, Beer) : 2
+(Milk, Beer) : 2
+(Bread, Beer) : 2
+(Bread, Coffee) : 2
+(Bread, Milk, Egg) : 2
+(Milk, Egg) : 4
+(Bread, Egg) : 4
+(Bread, Milk) : 4
+(Bread) : 7
+(Milk) : 6
+(Egg) : 6
+(Coffee) : 2
+(Beer) : 2
