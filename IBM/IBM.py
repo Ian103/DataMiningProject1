@@ -1,18 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import pandas as pd
 import numpy as np
 
-
-# ### Class
-
-# In[2]:
-
-
+# This class is used to biild FP-tree.
 class node():
     def __init__(self, value=None, parentNode=None):
         self.count = 0
@@ -41,13 +33,7 @@ class node():
         print('Node Name:', self.value)
         print('Parent :', None if self.parentNode == None else self.parentNode.getValue())
         print('Son :', [son.getValue() for son in self.sonNodes])
-        #l = [son.getValue() for son in self.sonNodes]
-        #print(len(self.sonNodes))
-
-
-# In[3]:
-
-
+# This class is used to build head node list.
 class node_head():
     def __init__(self, value):
         self.value = value
@@ -59,14 +45,6 @@ class node_head():
     def getList(self):
         return self.nodelist
 
-
-# ### Function
-
-# #### Find the node which value is target
-
-# In[4]:
-
-
 def findNode(head, target):
     if head.getSons() == []:
         return None
@@ -75,13 +53,7 @@ def findNode(head, target):
             if son.getValue() == target:
                 return son
     return None
-
-
-# #### print the subtree which root is h
-
-# In[5]:
-
-
+# print node from head to buttom
 def printNode(h):
     print(h.getValue(),h.getCount())
     if h.getSons() == []:
@@ -89,11 +61,7 @@ def printNode(h):
     else:
         for son in h.getSons():
             printNode(son)
-
-
-# In[6]:
-
-
+# print node for node to head
 def printNodeUp(s, tracklist):
     p = s.getParent()
     if p.getValue() == None:
@@ -103,11 +71,7 @@ def printNodeUp(s, tracklist):
         tracklist.append((p.getValue(), p.getCount()))
         tracklist = printNodeUp(p, tracklist)
     return tracklist 
-
-
-# In[7]:
-
-
+# load file to df
 def loadData(fileName):
     df = pd.DataFrame(columns=['CostumeID', 'tractID', 'Item'])
     with open('data', 'r') as f:
@@ -121,11 +85,7 @@ def loadData(fileName):
     for i in range(1, list(df['CostumeID'])[-1]):
            df2.loc[i] = [i, list(sector.get_group(i)['Item'])]
     return df2
-
-
-# In[8]:
-
-
+# print Patteren 
 def printPatteren(h, l, minSup, value, total):
     def check_add(l_old, item_new):
         if  item_new in l_old:
@@ -152,43 +112,22 @@ def printPatteren(h, l, minSup, value, total):
                 total = printPatteren(son, l0, minSup, value, total)
     return total
 
+# ---------------
 
-# ### Read Data
-# Toy Data : from FP-growth
-
-# In[9]:
-
-
+# load data
 df = loadData('data')
-
-
-# In[10]:
-
-
-df
-
-
-# In[11]:
-
-
+# count all item in frequency
+# m use map item to order by frequency
 totalList = []
 for l in df['ItemList']:
     for item in l:
         totalList.append(item)
 frequency = pd.Series(totalList).value_counts()
 headList = [node_head(item) for item in frequency.index]
-frequency
-
-
-# In[12]:
-
 
 m = pd.Series(list(range(len(frequency))),index=frequency.index)
 
-
-# In[13]:
-
-
+# build FP-tree
 headNode = node()
 for itemlist in df['ItemList']:
     head = headNode
@@ -203,17 +142,7 @@ for itemlist in df['ItemList']:
         else:
             theNode.addCount()
             head = theNode
-
-
-# In[14]:
-
-
-printNode(headNode)
-
-
-# In[15]:
-
-
+# collect path for leaf to head
 pathLists = []
 for head in headList:
     trackLists = []
@@ -223,11 +152,7 @@ for head in headList:
         print('|')
         trackLists.append(printNodeUp(n, tlist) )
     pathLists.append(trackLists)
-
-
-# In[16]:
-
-
+# reverse path and set all node's count to leaf node's count
 suffixLists = []
 for pathlist in pathLists:
     suffixList = []
@@ -237,13 +162,7 @@ for pathlist in pathLists:
         path = [(item[0],n) for item in path]
         suffixList.append(path)
     suffixLists.append(suffixList)
-    print(suffixList)
-    print('----')
-
-
-# In[17]:
-
-
+# build suffix tree
 suffixTrees = []
 for suffixList in suffixLists:
     head_null = node()
@@ -260,22 +179,21 @@ for suffixList in suffixLists:
                 theNode.setCount(theNode.getCount() + value)
                 head = theNode
     suffixTrees.append(head_null)
-
-
-# In[18]:
-
-
+# get pattern from suffix tree
 total_all = []
 for i in range(len(suffixTrees)):
     print(m.index[i])
     total = printPatteren(suffixTrees[i],[],2,m.index[i],[])
     total_all += total
+total_all.reverse()
 for i in range(len(frequency)):
     total_all.append(list([frequency.index[i], frequency[i]]))
-
-
-# In[19]:
-
-
-total_all
+# output pattern to file
+with open('patern_IBM.txt', 'w') as f:
+    for p in total_all: 
+        out_str = '('
+        for item in p[:-2]:
+            out_str = out_str +  '%s, '%item
+        out_str += '%s) : %d\n'%(p[-2],p[-1])
+        f.write(out_str)
 
