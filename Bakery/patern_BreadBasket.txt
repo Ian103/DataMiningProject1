@@ -1,0 +1,525 @@
+(Tea, Raspberry shortbread sandwich) : 2
+(Coffee, Bread Pudding) : 2
+(Coffee, Hot chocolate, Basket) : 2
+(Hot chocolate, Basket) : 2
+(Coffee, Basket) : 3
+(Coffee, Crepes) : 2
+(Coffee, Lemon and coconut) : 2
+(Bread, Lemon and coconut) : 2
+(Bread, Victorian Sponge) : 2
+(Coffee, Empanadas) : 3
+(Coffee, Juice, Drinking chocolate spoons ) : 2
+(Juice, Drinking chocolate spoons ) : 2
+(Coffee, Drinking chocolate spoons ) : 2
+(Tshirt, Postcard) : 4
+(Bread, Christmas common) : 2
+(Coffee, Tacos/Fajita) : 3
+(Coffee, Duck egg) : 3
+(Tea, Duck egg) : 2
+(Coffee, Kids biscuit) : 5
+(Medialuna, Dulce de Leche) : 2
+(Sandwich, Crisps) : 3
+(Bread, Crisps) : 2
+(Coffee, Juice, Crisps) : 3
+(Juice, Crisps) : 3
+(Coffee, Crisps) : 5
+(Cookies, My-5 Fruit Shoot) : 2
+(Coffee, Granola) : 7
+(Bread, Granola) : 4
+(Bread, Eggs) : 6
+(Coffee, Art Tray) : 11
+(Soup, Art Tray) : 2
+(Jam, Tartine) : 2
+(Coffee, Tea, Juice, Bakewell) : 2
+(Juice, Bakewell) : 2
+(Coffee, Tea, Bakewell) : 2
+(Tea, Bakewell) : 2
+(Coffee, Bakewell) : 17
+(Tea, Bakewell) : 5
+(Bread, Vegan mincepie) : 7
+(Coffee, Vegan mincepie) : 21
+(Brownie, Focaccia) : 2
+(Coffee, Focaccia) : 4
+(Bread, Pastry, The Nomad) : 2
+(Pastry, The Nomad) : 2
+(Bread, Scone, The Nomad) : 2
+(Scone, The Nomad) : 2
+(Bread, The Nomad) : 6
+(Tea, The Nomad) : 5
+(Coffee, The Nomad) : 13
+(Bread, Coffee, Keeping It Local) : 4
+(Coffee, Keeping It Local) : 4
+(Bread, Keeping It Local) : 13
+(Coffee, Tea, Keeping It Local) : 3
+(Tea, Keeping It Local) : 3
+(Coffee, Keeping It Local) : 28
+(Coffee, Frittata) : 20
+(Bread, Coffee, Salad) : 2
+(Bread, Salad) : 5
+(Soup, Salad) : 4
+(Tea, Coffee, Salad) : 2
+(Coffee, Salad) : 4
+(Tea, Salad) : 7
+(Coffee, Tea, Salad) : 2
+(Tea, Salad) : 2
+(Coffee, Bread, Salad) : 3
+(Bread, Salad) : 3
+(Coffee, Salad) : 37
+(Tea, Chicken Stew) : 7
+(Bread, Tea, Chicken Stew) : 2
+(Tea, Chicken Stew) : 2
+(Bread, Chicken Stew) : 10
+(Hot chocolate, Chicken Stew) : 2
+(Coffee, Tea, Chicken Stew) : 6
+(Tea, Chicken Stew) : 6
+(Coffee, Chicken Stew) : 27
+(Cake, Mineral water) : 5
+(Hot chocolate, Coffee, Mineral water) : 2
+(Coffee, Mineral water) : 2
+(Hot chocolate, Mineral water) : 2
+(Bread, Mineral water) : 14
+(Soup, Mineral water) : 7
+(Coffee, Coke, Mineral water) : 2
+(Coke, Mineral water) : 2
+(Coffee, Mineral water) : 24
+(Juice, Mineral water) : 5
+(Sandwich, Mineral water) : 14
+(Hearty & Seasonal, Mineral water) : 6
+(Bread, Jam) : 24
+(Hot chocolate, Jam) : 2
+(Vegan mincepie, Tiffin) : 2
+(Tea, Coffee, Tiffin) : 3
+(Coffee, Tiffin) : 3
+(Tea, Tiffin) : 13
+(Coffee, Bread, Tiffin) : 4
+(Bread, Tiffin) : 4
+(Coffee, Tiffin) : 50
+(Pastry, Baguette) : 2
+(Coffee, Baguette) : 14
+(Cookies, Baguette) : 3
+(Cake, Bread, Baguette) : 2
+(Bread, Baguette) : 2
+(Cake, Baguette) : 3
+(Farm House, Baguette) : 2
+(Hot chocolate, Baguette) : 2
+(Bread, Baguette) : 14
+(Bread, Tea, Spanish Brunch) : 2
+(Tea, Spanish Brunch) : 2
+(Bread, Coffee, Spanish Brunch) : 4
+(Coffee, Spanish Brunch) : 4
+(Bread, Spanish Brunch) : 15
+(Coffee, Spanish Brunch) : 45
+(Tea, Spanish Brunch) : 13
+(Bread, Coke) : 4
+(Bread, Truffles) : 15
+(Tea, Coffee, Truffles) : 3
+(Coffee, Truffles) : 3
+(Tea, Hot chocolate, Truffles) : 2
+(Hot chocolate, Truffles) : 2
+(Tea, Truffles) : 14
+(Coffee, Truffles) : 33
+(Hot chocolate, Scone) : 11
+(Farm House, Scone) : 2
+(Medialuna, Scone) : 3
+(Cake, Scone) : 9
+(Tea, Coffee, Scone) : 4
+(Tea, Hot chocolate, Scone) : 2
+(Hot chocolate, Scone) : 2
+(Tea, Bread, Scone) : 2
+(Bread, Scone) : 2
+(Tea, Scone) : 34
+(Muffin, Scone) : 4
+(Coffee, Toast, Scone) : 3
+(Toast, Scone) : 3
+(Coffee, Alfajores, Scone) : 2
+(Alfajores, Scone) : 2
+(Coffee, Tea, Scone) : 16
+(Tea, Scone) : 16
+(Coffee, Scone) : 95
+(Bread, Coffee, Scone) : 8
+(Coffee, Scone) : 8
+(Bread, Scone) : 34
+(Sandwich, Coffee, Scone) : 4
+(Coffee, Scone) : 8
+(Sandwich, Scone) : 8
+(Cake, Alfajores) : 9
+(Dulce de Leche, Alfajores) : 2
+(Medialuna, Alfajores) : 6
+(Hot chocolate, Bread, Alfajores) : 2
+(Bread, Alfajores) : 2
+(Hot chocolate, Tea, Alfajores) : 3
+(Tea, Alfajores) : 3
+(Hot chocolate, Coffee, Muffin, Alfajores) : 2
+(Muffin, Alfajores) : 2
+(Hot chocolate, Coffee, Alfajores) : 8
+(Hot chocolate, Alfajores) : 15
+(Scandinavian, Alfajores) : 7
+(Bread, Coffee, Alfajores) : 8
+(Coffee, Alfajores) : 16
+(Bread, Juice, Alfajores) : 2
+(Juice, Alfajores) : 2
+(Bread, Alfajores) : 36
+(Coffee, Hot chocolate, Alfajores) : 3
+(Hot chocolate, Alfajores) : 3
+(Coffee, Truffles, Alfajores) : 2
+(Truffles, Alfajores) : 2
+(Coffee, Muffin, Alfajores) : 3
+(Muffin, Alfajores) : 3
+(Coffee, Tea, Alfajores) : 6
+(Tea, Alfajores) : 6
+(Coffee, Juice, Alfajores) : 4
+(Juice, Alfajores) : 4
+(Coffee, Bread, Alfajores) : 12
+(Bread, Alfajores) : 12
+(Coffee, Brownie, Alfajores) : 2
+(Brownie, Alfajores) : 2
+(Coffee, Mineral water, Alfajores) : 4
+(Mineral water, Alfajores) : 4
+(Coffee, Alfajores) : 108
+(Juice, Alfajores) : 9
+(Brownie, Muffin) : 4
+(Hot chocolate, Bread, Muffin) : 2
+(Bread, Muffin) : 2
+(Hot chocolate, Coffee, Muffin) : 6
+(Coffee, Muffin) : 6
+(Hot chocolate, Tea, Muffin) : 3
+(Tea, Muffin) : 3
+(Hot chocolate, Muffin) : 14
+(Pastry, Muffin) : 5
+(Cake, Muffin) : 15
+(Mineral water, Muffin) : 2
+(Tea, Juice, Muffin) : 3
+(Juice, Muffin) : 3
+(Tea, Coffee, Muffin) : 7
+(Coffee, Muffin) : 7
+(Tea, Muffin) : 29
+(Farm House, Muffin) : 4
+(Fudge, Muffin) : 2
+(Hearty & Seasonal, Muffin) : 4
+(Ella's Kitchen Pouches, Muffin) : 2
+(Juice, Muffin) : 7
+(Coffee, Tea, Muffin) : 6
+(Tea, Muffin) : 6
+(Coffee, Bread, Muffin) : 6
+(Bread, Muffin) : 6
+(Coffee, Medialuna, Muffin) : 3
+(Medialuna, Muffin) : 3
+(Coffee, Muffin) : 105
+(Scandinavian, Muffin) : 6
+(Bread, Muffin) : 37
+(Medialuna, Muffin) : 10
+(Tea, Farm House) : 5
+(Pastry, Brownie) : 7
+(Alfajores, Brownie) : 6
+(Sandwich, Coffee, Brownie) : 3
+(Coffee, Brownie) : 3
+(Sandwich, Brownie) : 6
+(Coffee, Alfajores, Brownie) : 4
+(Alfajores, Brownie) : 4
+(Coffee, Sandwich, Brownie) : 2
+(Sandwich, Brownie) : 2
+(Coffee, Brownie) : 113
+(Jammie Dodgers, Cookies) : 2
+(Sandwich, Cookies) : 7
+(Mineral water, Cookies) : 3
+(Pastry, Bread, Cookies) : 2
+(Pastry, Cookies) : 4
+(Medialuna, Cookies) : 3
+(Alfajores, Cookies) : 6
+(Brownie, Cookies) : 3
+(Juice, Tea, Cookies) : 3
+(Tea, Cookies) : 3
+(Juice, Cookies) : 14
+(Cake, Cookies) : 18
+(Bread, Coffee, Tea, Cookies) : 2
+(Tea, Cookies) : 2
+(Bread, Coffee, Alfajores, Cookies) : 2
+(Alfajores, Cookies) : 2
+(Bread, Coffee, Cookies) : 13
+(Coffee, Cookies) : 13
+(Bread, Fudge, Cookies) : 2
+(Fudge, Cookies) : 2
+(Bread, Cake, Cookies) : 2
+(Cake, Cookies) : 2
+(Bread, Hot chocolate, Cookies) : 2
+(Hot chocolate, Cookies) : 2
+(Bread, Cookies) : 68
+(Coffee, Tea, Cookies) : 12
+(Tea, Cookies) : 12
+(Coffee, Cookies) : 150
+(Tea, Bread, Cookies) : 2
+(Bread, Cookies) : 4
+(Tea, Coffee, Cookies) : 8
+(Coffee, Cookies) : 8
+(Tea, Juice, Cookies) : 3
+(Juice, Cookies) : 3
+(Tea, Cookies) : 43
+(Hot chocolate, Cookies) : 21
+(Coffee, Hot chocolate) : 113
+(Brownie, Sandwich) : 5
+(Juice, Sandwich) : 15
+(Bread, Coffee, Sandwich) : 7
+(Coffee, Sandwich) : 7
+(Bread, Tea, Sandwich) : 3
+(Tea, Sandwich) : 3
+(Bread, Sandwich) : 56
+(Coffee, Bread, Sandwich) : 13
+(Bread, Sandwich) : 13
+(Coffee, Sandwich) : 189
+(Tea, Sandwich) : 50
+(Farm House, Pastry) : 10
+(Scandinavian, Pastry) : 6
+(Cookies, Pastry) : 10
+(Tea, Coffee, Pastry) : 7
+(Coffee, Pastry) : 7
+(Tea, Bread, Pastry) : 3
+(Bread, Pastry) : 3
+(Tea, Pastry) : 33
+(Bread, Medialuna, Pastry) : 2
+(Medialuna, Pastry) : 2
+(Bread, Pastry) : 136
+(Jam, Pastry) : 2
+(Medialuna, Pastry) : 23
+(Coffee, Bread, Tea, Pastry) : 4
+(Tea, Pastry) : 4
+(Coffee, Bread, Pastry) : 28
+(Bread, Pastry) : 28
+(Coffee, Tea, Pastry) : 10
+(Tea, Pastry) : 10
+(Coffee, Hot chocolate, Bread, Pastry) : 2
+(Bread, Pastry) : 2
+(Coffee, Hot chocolate, Pastry) : 13
+(Hot chocolate, Pastry) : 13
+(Coffee, Pastry) : 272
+(Brownie, Cake) : 5
+(Tea, Coffee, Cake) : 13
+(Tea, Brownie, Cake) : 3
+(Brownie, Cake) : 3
+(Tea, Cake) : 90
+(Hot chocolate, Coffee, Cake) : 26
+(Coffee, Cake) : 26
+(Hot chocolate, Cake) : 51
+(Bread, Brownie, Cake) : 2
+(Brownie, Cake) : 2
+(Bread, Coffee, Cake) : 13
+(Coffee, Cake) : 26
+(Bread, Tea, Cake) : 9
+(Tea, Cake) : 9
+(Bread, Cake) : 76
+(Cookies, Cake) : 16
+(Coffee, Soup, Sandwich, Cake) : 3
+(Sandwich, Cake) : 3
+(Coffee, Soup, Cake) : 4
+(Soup, Cake) : 4
+(Coffee, Bread, Tea, Pastry, Cake) : 2
+(Pastry, Cake) : 2
+(Coffee, Bread, Tea, Cake) : 2
+(Tea, Cake) : 2
+(Coffee, Bread, Cake) : 25
+(Bread, Cake) : 25
+(Coffee, Tea, Bread, Cake) : 2
+(Bread, Cake) : 2
+(Coffee, Tea, Cake) : 36
+(Tea, Cake) : 36
+(Coffee, Cake) : 306
+(Pastry, Tea) : 15
+(Hot chocolate, Coffee, Tea) : 2
+(Coffee, Tea) : 2
+(Hot chocolate, Tea) : 27
+(Brownie, Cake, Tea) : 2
+(Cake, Tea) : 2
+(Brownie, Tea) : 9
+(Mighty Protein, Tea) : 2
+(Alfajores, Bread, Tea) : 2
+(Bread, Tea) : 2
+(Alfajores, Tea) : 6
+(Juice, Coffee, Tea) : 2
+(Juice, Tea) : 17
+(Farm House, Tea) : 3
+(Soup, Sandwich, Tea) : 3
+(Sandwich, Tea) : 3
+(Soup, Tea) : 27
+(Hearty & Seasonal, Coffee, Tea) : 3
+(Coffee, Tea) : 3
+(Hearty & Seasonal, Tea) : 9
+(Cookies, Tea) : 14
+(Coffee, Hot chocolate, Tea) : 2
+(Hot chocolate, Tea) : 2
+(Coffee, Sandwich, Tea) : 2
+(Sandwich, Tea) : 2
+(Coffee, Cookies, Tea) : 2
+(Cookies, Tea) : 2
+(Coffee, Bread, Tea) : 6
+(Bread, Tea) : 6
+(Coffee, Tea) : 219
+(Fudge, Tea) : 2
+(Tartine, Tea) : 6
+(Victorian Sponge, Tea) : 2
+(Frittata, Coffee, Tea) : 2
+(Coffee, Tea) : 4
+(Frittata, Tea) : 9
+(Bread, Coffee, Tea) : 8
+(Coffee, Tea) : 8
+(Bread, Pastry, Tea) : 2
+(Pastry, Tea) : 2
+(Bread, Tea) : 88
+(Jam, Tea) : 3
+(Medialuna, Tea) : 21
+(Muffin, Bread) : 7
+(Brownie, Alfajores, Bread) : 2
+(Alfajores, Bread) : 2
+(Brownie, Coffee, Bread) : 2
+(Brownie, Bread) : 19
+(Cookies, Coffee, Bread) : 2
+(Coffee, Bread) : 4
+(Cookies, Cake, Bread) : 2
+(Cake, Bread) : 2
+(Cookies, Tea, Bread) : 2
+(Cookies, Bread) : 20
+(Alfajores, Coffee, Bread) : 2
+(Alfajores, Medialuna, Coffee, Bread) : 2
+(Coffee, Bread) : 4
+(Alfajores, Medialuna, Bread) : 2
+(Alfajores, Cookies, Bread) : 2
+(Cookies, Bread) : 2
+(Alfajores, Brownie, Bread) : 3
+(Brownie, Bread) : 3
+(Alfajores, Bread) : 25
+(Medialuna, Pastry, Bread) : 5
+(Pastry, Bread) : 5
+(Medialuna, Coffee, Bread) : 4
+(Coffee, Bread) : 4
+(Medialuna, Bread) : 40
+(Soup, Bread) : 17
+(Jam, Bread) : 11
+(Hearty & Seasonal, Bread) : 9
+(Scandinavian, Bread) : 20
+(Sandwich, Bread) : 48
+(Tartine, Bread) : 5
+(Frittata, Tea, Bread) : 2
+(Tea, Bread) : 4
+(Frittata, Bread) : 7
+(Ella's Kitchen Pouches, Bread) : 2
+(Tea, Medialuna, Bread) : 2
+(Medialuna, Bread) : 4
+(Tea, Coke, Bread) : 2
+(Coke, Bread) : 2
+(Tea, Scone, Bread) : 2
+(Scone, Bread) : 2
+(Tea, Sandwich, Bread) : 3
+(Sandwich, Bread) : 3
+(Tea, Coffee, Bread) : 9
+(Coffee, Bread) : 9
+(Tea, Brownie, Bread) : 2
+(Brownie, Bread) : 2
+(Tea, Bread) : 89
+(Farm House, Bread) : 7
+(Basket, Bread) : 2
+(Pastry, Coffee, Bread) : 5
+(Coffee, Bread) : 5
+(Pastry, Bread) : 57
+(Coffee, Tea, Bread) : 25
+(Tea, Bread) : 25
+(Coffee, Medialuna, Bread) : 8
+(Medialuna, Bread) : 8
+(Coffee, Pastry, Bread) : 18
+(Pastry, Bread) : 18
+(Coffee, Bread) : 430
+(Jam, Coffee) : 12
+(Medialuna, Pastry, Coffee) : 6
+(Pastry, Coffee) : 6
+(Medialuna, Coffee) : 66
+(Coffee) : 4528
+(Bread) : 3097
+(Tea) : 1350
+(Cake) : 983
+(Pastry) : 815
+(Sandwich) : 680
+(Medialuna) : 585
+(Hot chocolate) : 552
+(Cookies) : 515
+(Brownie) : 379
+(Farm House) : 371
+(Juice) : 365
+(Muffin) : 364
+(Alfajores) : 344
+(Scone) : 327
+(Soup) : 326
+(Toast) : 318
+(Scandinavian) : 275
+(Truffles) : 192
+(Coke) : 184
+(Spanish Brunch) : 172
+(Baguette) : 152
+(Tiffin) : 146
+(Jam) : 142
+(Fudge) : 142
+(Mineral water) : 134
+(Jammie Dodgers) : 125
+(Chicken Stew) : 123
+(Hearty & Seasonal) : 100
+(Salad) : 99
+(Frittata) : 81
+(Smoothies) : 77
+(Keeping It Local) : 63
+(The Nomad) : 58
+(Focaccia) : 54
+(Vegan mincepie) : 52
+(Bakewell) : 48
+(Tartine) : 46
+(Afternoon with the baker) : 43
+(Art Tray) : 38
+(Extra Salami or Feta) : 38
+(Eggs) : 28
+(Granola) : 28
+(Tshirt) : 21
+(My-5 Fruit Shoot) : 18
+(Ella's Kitchen Pouches) : 17
+(Vegan Feast) : 16
+(Crisps) : 14
+(Valentine's card) : 13
+(Dulce de Leche) : 13
+(Pick and Mix Bowls) : 12
+(Kids biscuit) : 12
+(Duck egg) : 12
+(Tacos/Fajita) : 11
+(Mighty Protein) : 11
+(Christmas common) : 11
+(Postcard) : 10
+(Chocolates) : 9
+(Gingerbread syrup) : 9
+(Nomad bag) : 8
+(Muesli) : 8
+(Drinking chocolate spoons ) : 8
+(Argentina Night) : 7
+(Empanadas) : 7
+(Victorian Sponge) : 7
+(Coffee granules ) : 7
+(Lemon and coconut) : 6
+(Honey) : 6
+(Half slice Monster ) : 6
+(Crepes) : 6
+(Pintxos) : 6
+(Basket) : 6
+(Panatone) : 5
+(Bare Popcorn) : 5
+(Mortimer) : 5
+(Bread Pudding) : 4
+(Caramel bites) : 3
+(Raspberry shortbread sandwich) : 3
+(Brioche and salami) : 3
+(Cherry me Dried fruit) : 3
+(Chimichurri Oil) : 2
+(Bowl Nic Pitt) : 2
+(Fairy Doors) : 2
+(Hack the stack) : 2
+(Siblings) : 2
+(Spread) : 2
+(Gift voucher) : 1
+(Olum & polenta) : 1
+(Chicken sand) : 1
+(Adjustment) : 1
+(Polenta) : 1
+(The BART) : 1
+(Raw bars) : 1
+(Bacon) : 1
