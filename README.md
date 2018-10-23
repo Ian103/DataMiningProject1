@@ -8,6 +8,10 @@
 - Result : pattern_Toy.txt
 ## IBM
 使用**IBM_Quest_Data_Generator**產生的資料
+> 參數 :
+> - Number of transactions in database = 1000000
+> - Average transaction length = 10 
+> - Number of items = 100000
 - Data : data
 - Code : IBM.py
 - Result : pattern_IBM.txt
