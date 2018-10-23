@@ -9,4 +9,8 @@
 - Data : data
 - Code : IBM.py
 - Result : pattern_IBM.txt
-
+## Bakery
+使用Kaggle資料集 : [Transactions from a bakery](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
+- Data : BreadBasket_DMS.csv
+- Code : Bakery.py
+- Result : patern_BreadBasket.txt
