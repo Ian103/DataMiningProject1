@@ -1,4 +1,5 @@
 # DataMiningProject1
+2018/10/24
 ## Toy
 來自講義中的範例
 - Data : Toy.csv
